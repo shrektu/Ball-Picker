@@ -1,0 +1,3 @@
+﻿  Game.cpp
+E:\Dokumenty\CPP\MyProjects\BallPicker\BallPicker\Game.cpp(89,26): warning C4018: '<': signed/unsigned mismatch
+  BallPicker.vcxproj -> E:\Dokumenty\CPP\MyProjects\BallPicker\Debug\BallPicker.exe
